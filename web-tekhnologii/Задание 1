@@ -1,4 +1,4 @@
-Первый HTTPS-запрос, отправленный к домену ylab.io 
+- Первый HTTPS-запрос, отправленный к домену ylab.io 
    
 Request URL:
       https://ylab.io/ssr/state/40599u1m1hh0aye
@@ -8,3 +8,6 @@ Request URL:
       200 OK
       Remote Address:
       84.201.130.34:443
+
+- Цвет используемого шрифта 
+      color: rgb(10 184 182);
