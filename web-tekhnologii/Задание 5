@@ -31,3 +31,5 @@ Note: Unnecessary use of -X or --request, GET is already inferred.
 > Host: ylab.io
 > User-Agent: curl/8.4.0
 > Accept: */*
+
+Как видно из запроса заголовок Host есть
